@@ -1,0 +1,44 @@
+[
+    {
+      "nombreApellido": "Gabriel Bran",
+      "edad": 28,
+      "pronombre": "It",
+      "descripcion": "Proyecto Rafa Nadal fallido, amante de los videojuegos de Mario",
+      "imagen_perfil": "avatar1"
+    },
+    {
+      "nombreApellido": "Laura Garcia",
+      "edad": 25,
+      "pronombre": "She",
+      "descripcion": "Diseñadora grafica creativa y talentosa. Manifestante.",
+      "imagen_perfil": "avatar2"
+    },
+    {
+      "nombreApellido": "Carlos Rodriguez",
+      "edad": 42,
+      "pronombre": "He",
+      "descripcion": "Profesor de matematicas con gran vocacion por la enseñanza.",
+      "imagen_perfil": "avatar3"
+    },
+    {
+      "nombreApellido": "Ana Martinez",
+      "edad": 27,
+      "pronombre": "She",
+      "descripcion": "Emprendedora exitosa en el mundo de los negocios.",
+      "imagen_perfil": "avatar4"
+    },
+    {
+      "nombreApellido": "Lucia Fernandez",
+      "edad": 31,
+      "pronombre": "She",
+      "descripcion": "Periodista apasionada por contar historias interesantes.",
+      "imagen_perfil": "avatar5"
+    },
+    {
+      "nombreApellido": "Panesia Pancracia",
+      "edad": 68,
+      "pronombre": "Pan/She",
+      "descripcion": "si",
+      "imagen_perfil": "avatarE"
+    }
+  ]
